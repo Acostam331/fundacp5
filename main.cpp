@@ -9,7 +9,7 @@ int main(){
     cout << "Hola mundo";
     cout << "Hola xd";
 
-    if(n1 != n2){
+    if(n1 == n2){
         cout << "True";
     }
 
